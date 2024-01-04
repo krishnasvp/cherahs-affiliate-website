@@ -7,3 +7,26 @@
 body{
     background-color: rgb(246, 233, 235);
 }
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: peachpuff;
+    padding: 5px 2%;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.navbar-left, .navbar-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
