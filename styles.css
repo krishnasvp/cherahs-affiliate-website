@@ -12,7 +12,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: peachpuff;
+    background: black;
     padding: 5px 2%;
     position: sticky;
     top: 0;
@@ -29,4 +29,10 @@ header{
     font-size: 30px;
     color: white;
     font-weight: bold;
+    margin-left: 23px;
 }
+
+.navbar-right a{
+    margin-left: 13px;
+}
+
