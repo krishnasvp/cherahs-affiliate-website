@@ -49,8 +49,22 @@ header{
 .option-menu a{
     text-decoration: none;
     color: black;
-    padding-left: 30px;
     font-size: 20px;
 }
+
+.option-1{
+    text-align: center;
+    padding-right: 30px;
+}
+
+.option-2{
+    text-align: center;
+    padding-left: 30px;
+}
+
+
+
+
+
 
 
