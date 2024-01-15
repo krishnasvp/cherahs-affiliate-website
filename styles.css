@@ -62,6 +62,19 @@ header{
     padding-left: 30px;
 }
 
+.feed-posts{
+    display: block;
+    text-align: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.post img{
+    width: 750px;
+    height: 400px;
+}
 
 
 
